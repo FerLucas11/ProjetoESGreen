@@ -1,0 +1,6 @@
+@ProjetoESGreen_HostAddress = http://localhost:5044
+
+GET {{ProjetoESGreen_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
